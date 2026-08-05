@@ -41,11 +41,19 @@ The primary written line of an ad, or an on-screen title/text overlay used *in p
 
 **Hook vs. headline default:** on-screen text overlay with no spoken line is a headline; a line the creator says out loud, or clearly could say out loud unchanged, is a hook. Do not rephrase or soften a written line to force it into sounding "spoken" just to justify a hook entry — if it needs rephrasing to sound natural, it's a headline.
 
+**Save patterns, not lines.** Hook and headline entries are saved as reusable *patterns* — the structure of how the line works ([statement that triggers an expectation] + [reality that contradicts it]) — never as verbatim lines to reuse. The specific line from the source is logged inside the entry as one example fill of the pattern.
+
+**Mark the wording.** Every language-based entry (hook, headline, or sentence-template mechanic) records a **Wording** field with one of three values. *Fixed phrase*: the source's literal words are the asset — reuse them exactly and only write the fill. *Skeleton*: the frame is reusable but every slot gets rewritten — no fixed catchphrase carries it. *Structure only*: the source's words are welded to their specific use case — never reuse them; only the shape travels. Never assume; decide per entry.
+
 ## Multi-library saves
 
 One shared video often carries more than one thing worth keeping — a format worth saving AND a mechanic inside it AND a line strong enough to stand alone. Save each liked aspect to its own library and cross-reference the entries back to each other and to the shared source. A mechanic that is a reusable sentence template (the recipe) can also produce a hook or headline entry (the finished line) when the specific line stands on its own; save both, cross-referenced.
 
 Never force a save into one library when two aspects were genuinely liked — and never pad into extra libraries when only one thing was actually pointed out. Save what was liked, nothing more.
+
+## Library indexes
+
+Each library folder keeps an `index.md` — a table of contents with one row per entry and a one-line description. The elaboration, reasoning, and source-link examples live in the individual entry files. Every save updates two things: the new entry file, and its row in that library's index.
 
 ## The trends exception
 
